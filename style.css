@@ -1,0 +1,13 @@
+body {
+    background-color: brown;
+}
+
+#welcome {
+    position: absolute;
+    left: 550px;
+}
+
+#welcome_2 {
+    position: absolute;
+    top: 420px;
+}
