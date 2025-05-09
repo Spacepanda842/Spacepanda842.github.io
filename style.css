@@ -1,5 +1,5 @@
 body {
-    background-color: brown;
+    background-image: url("images/chicken again.jpg");
 }
 
 #welcome {
@@ -10,6 +10,7 @@ body {
 #welcome_2 {
     position: absolute;
     top: 420px;
+    left: 35px
 }
 
 #Chicken_Image {
@@ -19,3 +20,24 @@ body {
     bottom: 355px;
 
 }
+
+#menu {
+    position: absolute;
+    left: 30px;
+    font-size: 30px;
+    top: 35px;
+}
+
+#Log_In {
+position: absolute;
+    left: 1480px;
+    font-size: 30px;
+    top: 35px;
+
+}
+
+a:hover {
+    color: aqua;
+}
+
+a
