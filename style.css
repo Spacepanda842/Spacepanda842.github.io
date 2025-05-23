@@ -1,23 +1,23 @@
 body {
-    background-image: url("images/chicken again.jpg");
+    background-image: url("images/background.jpg");
 }
 
 #welcome {
     position: absolute;
-    left: 550px;
+    left: 650px;
 }
 
 #welcome_2 {
     position: absolute;
-    top: 420px;
-    left: 35px
+    top: 510px;
+    left: 125px
 }
 
 #Chicken_Image {
     position: absolute;
     width: 450px;
-    left: 561px;
-    bottom: 355px;
+    left: 670px;
+    bottom: 395px;
 
 }
 
@@ -28,9 +28,9 @@ body {
     top: 35px;
 }
 
-#Log_In {
+#sign_in{
 position: absolute;
-    left: 1480px;
+    left: 1640px;
     font-size: 30px;
     top: 35px;
 
@@ -40,4 +40,115 @@ a:hover {
     color: aqua;
 }
 
-a
+#lore  {
+    position: absolute;
+    top: 2000px;
+    font-family: 'Café Françoise', sans-serif;
+}
+
+#about {
+    position: absolute;
+    top: 560px;
+    font-size: 40px;
+    left: 820px;
+    font-family: 'Café Françoise', sans-serif;
+
+}
+
+#about-us-image{
+    position: absolute;
+    top:700px;
+}
+
+#customer-service-image {
+    position: absolute;
+    top: 700px;
+    left: 1055px;
+    width: 700px;
+}
+
+#under-freshness {
+    position: absolute;
+    top: 1215px;
+    font-size: 18px;
+}
+
+#con-under-freshness {
+    position: absolute;
+    top: 1225px;
+    font-size: 18px;
+
+}
+
+#con2-under-freshness {
+    position: absolute;
+    top: 1290px;
+    font-size: 18px;
+
+}
+
+#F-rides-first {
+    position: absolute;
+    top: 1180px;
+    font-size: 30px;
+    font-family: 'Café Françoise', sans-serif;
+}
+
+#con3-under-freshness-{
+    position: absolute;
+    font-size: 18px;
+    top: 1315px;
+
+
+}
+
+#con4-under-freshness {
+    position: absolute;
+    font-size: 18px;
+    top: 1338px;
+
+
+}
+
+#Customer-Service {
+    position: absolute;
+    font-size: 30px;
+    font-family: 'Café Françoise', sans-serif;
+    top: 1180px;
+    left: 1055px;
+}
+
+#Cus-ser-prompt1 {
+    position: absolute;
+    font-size: 18px;
+    top: 1250px;
+    left: 1055px;
+}
+
+#Cus-ser-prompt2 {
+    position: absolute;
+    font-size: 18px;
+    top: 1271px;
+    left: 1149px;
+}
+
+#Cus-ser-prompt3 {
+    position: absolute;
+    font-size: 18px;
+    top: 1290px;
+    left: 1055px;
+}
+
+#Cus-ser-prompt4 {
+    position: absolute;
+    font-size: 18px;
+    top: 1330px;
+    left: 1055px;
+}
+
+#Cus-ser-prompt5 {
+    position: absolute;
+    font-size: 18px;
+    top: 1395px;
+    left: 1055px;
+}

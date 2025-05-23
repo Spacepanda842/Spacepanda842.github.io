@@ -1,0 +1,60 @@
+#back_to_homepage_2 {
+    font-size: 24px;
+    position: absolute;
+    top: 35px;
+    left: 1379px;
+
+}
+
+a:visited {
+    color: saddlebrown;
+}
+
+a:hover {
+    color: aqua;
+}
+
+
+
+
+
+body{
+background-image: url("images/FINAL BACKGROUND!!!.jpg");
+}
+
+#contactForm {
+    position: absolute;
+    left: 640px;
+    top: 400px;
+}
+
+#email {
+    position: absolute;
+    top: 90px;
+    left: 150px;
+}
+
+#email1 {
+    position: absolute;
+    top:90px;
+    left: 100px;
+}
+
+#name {
+    position: absolute;
+    top: 10px;
+    left: 145px;
+}
+
+#name1 {
+    position: absolute;
+    top: 10px;
+    left: 100px;
+}
+
+#submit {
+    position: absolute;
+    top: 150px;
+    left: 180px;
+    width: 100px;
+}
